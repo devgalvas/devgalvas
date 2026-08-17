@@ -3,8 +3,8 @@
   <h3>Computer Engineering Student @ UNIFEI | AI Enthusiast | Data Analyst</h3>
 
   <p>
-    Atualmente cursando o 4º ano de Engenharia de Computação e atuando como <b>Pesquisador na UNIFEI</b>.
-    Meu foco atual é o desenvolvimento de soluções inteligentes, unindo Engenharia de Dados, conceitos de Engenharia e Projeto de Software e Inteligência Artificial.
+    Currently in my 4th year of Computer Engineering and working as an <b>Undergraduate Researcher at UNIFEI</b>.
+    My current focus is on developing intelligent solutions at the intersection of Data Engineering, Software Design & Architecture, and Artificial Intelligence.
   </p>
 
   <a href="https://www.instagram.com/lucasgalvao04/">
@@ -18,12 +18,12 @@
 <br/>
 
 ## 🔭 What I'm working on
-Sou apaixonado por transformar dados brutos em insights e criar sistemas autônomos. Meus projetos recentes envolvem:
+Passionate about turning raw data into actionable insights and engineering autonomous systems. My recent projects include:
 
-- 🧠 **Generative AI & RAG:** Desenvolvimento de sistemas de *Retrieval-Augmented Generation* utilizando **LangChain** e **Google Gemini** para processamento semântico de documentos.
-- 👁️ **Computer Vision:** Implementação de soluções embarcadas para drones autônomos utilizando **YOLO** e **OpenCV** (Black Bee Drones).
-- 📊 **Data Mining & Analytics:** Análise de correlação de eventos e alarmes utilizando algoritmos como **FP-Growth** e visualização de grafos com **Pyvis**.
-- ☁️ **Distributed Systems:** Pesquisa em predição comportamental de recursos (CPU/RAM) em pods e containers.
+- 🧠 **Generative AI & RAG:** Developing *Retrieval-Augmented Generation* systems using **LangChain** and **Google Gemini** for semantic document processing.
+- 👁️ **Computer Vision:** Implementing embedded solutions for autonomous drones using **YOLO** and **OpenCV** (Black Bee Drones).
+- 📊 **Data Mining & Analytics:** Event and alarm correlation analysis using algorithms like **FP-Growth** and graph visualization with **Pyvis**.
+- ☁️ **Distributed Systems:** Research on resource behavioral prediction (CPU/RAM) across pods and containers.
 
 ---
 
@@ -54,9 +54,6 @@ Sou apaixonado por transformar dados brutos em insights e criar sistemas autôno
 </div>
 
 <br/>
-
-## ⚡ GitHub Stats
-<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devgalvas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgalvas&layout=compact&theme=dracula"/>
 </div>
