@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/lucasgalvao04/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI/">
+  <a href="https://www.linkedin.com/in/lucasgalvaofreitas/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
