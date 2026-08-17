@@ -52,8 +52,3 @@ Passionate about turning raw data into actionable insights and engineering auton
   <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
-
-<br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devgalvas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgalvas&layout=compact&theme=dracula"/>
-</div>
